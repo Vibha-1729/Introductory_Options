@@ -1,1 +1,1 @@
-# Introductory_Options
+This repository contains implementations and simulations developed as part of a financial derivatives course, with a focus on options pricing, risk modeling, and market mechanics. Core concepts covered include put/call options, Option Greeks, American vs. European options, and widely used pricing models like Black-Scholes-Merton.
